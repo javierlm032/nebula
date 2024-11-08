@@ -1,0 +1,515 @@
+/*
+Este es el archivo de configuracion para las misiones de DragonCraft.
+Configura las misiones, los objetivos y las recompensas aqui.
+TipoAccion puede ser: 'logro', 'recoger_item', 'pescar', 'craftear', 'eliminar', 'romper', 'poner_bloque'.
+El valor de 'Objetivo' depende del tipo de accion, puede ser un ID de item, entidad o logro.
+Define cuantas veces debe completarse la accion, en 'Cantidad'.
+Define en que semana esta disponible la mision, en 'Semana'.
+Define cuantas Draconitas se otorgan al completar la mision, en 'Recompensa'.
+*/
+{
+  "Mision1": {
+    "Titulo": "Atrapa un pescado",
+    "Tooltip": "Usa una caña de pescar para pescar un pez.",
+    "Semana": 1,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 1,
+    "Recompensa": 5
+  },
+  "Mision2": {
+    "Titulo": "Corta 5 bloques de madera",
+    "Tooltip": "Corta 5 bloques de cualquier tipo de madera.",
+    "Semana": 1,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:oak_log",
+    "Cantidad": 5,
+    "Recompensa": 5
+  },
+  "Mision3": {
+    "Titulo": "Craftea una mesa de trabajo",
+    "Tooltip": "Craftea una mesa de trabajo usando 4 bloques de madera.",
+    "Semana": 1,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:crafting_table",
+    "Cantidad": 1,
+    "Recompensa": 5
+  },
+  "Mision4": {
+    "Titulo": "Elimina 5 zombies",
+    "Tooltip": "Encuentra y elimina 5 zombies.",
+    "Semana": 1,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:zombie",
+    "Cantidad": 5,
+    "Recompensa": 5
+  },
+  "Mision5": {
+    "Titulo": "Recolecta 10 piedras",
+    "Tooltip": "Rompe 10 bloques de piedra.",
+    "Semana": 1,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:stone",
+    "Cantidad": 10,
+    "Recompensa": 5
+  },
+  "Mision6": {
+    "Titulo": "Crea un horno",
+    "Tooltip": "Craftea un horno usando 8 bloques de piedra.",
+    "Semana": 1,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:furnace",
+    "Cantidad": 1,
+    "Recompensa": 5
+  },
+  "Mision7": {
+    "Titulo": "Elimina 3 esqueletos",
+    "Tooltip": "Encuentra y elimina 3 esqueletos.",
+    "Semana": 1,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:skeleton",
+    "Cantidad": 3,
+    "Recompensa": 5
+  },
+  "Mision8": {
+    "Titulo": "Planta un árbol",
+    "Tooltip": "Planta un retoño de cualquier tipo de árbol.",
+    "Semana": 1,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 1,
+    "Recompensa": 5
+  },
+  "Mision9": {
+    "Titulo": "Atrapa 5 peces",
+    "Tooltip": "Usa una caña de pescar para pescar 5 peces.",
+    "Semana": 2,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 5,
+    "Recompensa": 10
+  },
+  "Mision10": {
+    "Titulo": "Recoge 10 bloques de hierro",
+    "Tooltip": "Encuentra y recoge 10 bloques de mineral de hierro.",
+    "Semana": 2,
+    "TipoAccion": "recoger_item",
+    "Objetivo": "minecraft:iron_ore",
+    "Cantidad": 10,
+    "Recompensa": 10
+  },
+  "Mision11": {
+    "Titulo": "Craftea una espada de hierro",
+    "Tooltip": "Craftea una espada de hierro para defenderte mejor.",
+    "Semana": 2,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:iron_sword",
+    "Cantidad": 1,
+    "Recompensa": 10
+  },
+  "Mision12": {
+    "Titulo": "Elimina 5 creepers",
+    "Tooltip": "Encuentra y elimina 5 creepers.",
+    "Semana": 2,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:creeper",
+    "Cantidad": 5,
+    "Recompensa": 10
+  },
+  "Mision13": {
+    "Titulo": "Rompe 10 bloques de carbón",
+    "Tooltip": "Rompe 10 bloques de mineral de carbón.",
+    "Semana": 2,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:coal_ore",
+    "Cantidad": 10,
+    "Recompensa": 10
+  },
+  "Mision14": {
+    "Titulo": "Crea un yunque",
+    "Tooltip": "Craftea un yunque usando bloques de hierro.",
+    "Semana": 2,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:anvil",
+    "Cantidad": 1,
+    "Recompensa": 10
+  },
+  "Mision15": {
+    "Titulo": "Elimina 3 arañas",
+    "Tooltip": "Encuentra y elimina 3 arañas.",
+    "Semana": 2,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:spider",
+    "Cantidad": 3,
+    "Recompensa": 10
+  },
+  "Mision16": {
+    "Titulo": "Planta 5 árboles",
+    "Tooltip": "Planta 5 retoños de cualquier tipo de árbol.",
+    "Semana": 2,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 5,
+    "Recompensa": 10
+  },
+  "Mision17": {
+    "Titulo": "Atrapa 10 peces",
+    "Tooltip": "Usa una caña de pescar para pescar 10 peces.",
+    "Semana": 3,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 10,
+    "Recompensa": 15
+  },
+  "Mision18": {
+    "Titulo": "Recoge 20 bloques de hierro",
+    "Tooltip": "Encuentra y recoge 20 bloques de mineral de hierro.",
+    "Semana": 3,
+    "TipoAccion": "recoger_item",
+    "Objetivo": "minecraft:iron_ore",
+    "Cantidad": 20,
+    "Recompensa": 15
+  },
+  "Mision19": {
+    "Titulo": "Craftea un escudo",
+    "Tooltip": "Craftea un escudo para protegerte de los ataques.",
+    "Semana": 3,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:shield",
+    "Cantidad": 1,
+    "Recompensa": 15
+  },
+  "Mision20": {
+    "Titulo": "Elimina 5 enderman",
+    "Tooltip": "Encuentra y elimina 5 enderman.",
+    "Semana": 3,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:enderman",
+    "Cantidad": 5,
+    "Recompensa": 15
+  },
+  "Mision21": {
+    "Titulo": "Rompe 20 bloques de carbón",
+    "Tooltip": "Rompe 20 bloques de mineral de carbón.",
+    "Semana": 3,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:coal_ore",
+    "Cantidad": 20,
+    "Recompensa": 15
+  },
+  "Mision22": {
+    "Titulo": "Crea una mesa de encantamientos",
+    "Tooltip": "Craftea una mesa de encantamientos usando obsidiana y diamantes.",
+    "Semana": 3,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:enchanting_table",
+    "Cantidad": 1,
+    "Recompensa": 15
+  },
+  "Mision23": {
+    "Titulo": "Elimina 3 brujas",
+    "Tooltip": "Encuentra y elimina 3 brujas.",
+    "Semana": 3,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:witch",
+    "Cantidad": 3,
+    "Recompensa": 15
+  },
+  "Mision24": {
+    "Titulo": "Planta 10 árboles",
+    "Tooltip": "Planta 10 retoños de cualquier tipo de árbol.",
+    "Semana": 3,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 10,
+    "Recompensa": 15
+  },
+  "Mision25": {
+    "Titulo": "Atrapa 15 peces",
+    "Tooltip": "Usa una caña de pescar para pescar 15 peces.",
+    "Semana": 4,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 15,
+    "Recompensa": 20
+  },
+  "Mision26": {
+    "Titulo": "Recoge 30 bloques de hierro",
+    "Tooltip": "Encuentra y recoge 30 bloques de mineral de hierro.",
+    "Semana": 4,
+    "TipoAccion": "recoger_item",
+    "Objetivo": "minecraft:iron_ore",
+    "Cantidad": 30,
+    "Recompensa": 20
+  },
+  "Mision27": {
+    "Titulo": "Craftea una armadura de hierro completa",
+    "Tooltip": "Craftea un conjunto completo de armadura de hierro.",
+    "Semana": 4,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:iron_chestplate",
+    "Cantidad": 1,
+    "Recompensa": 20
+  },
+  "Mision28": {
+    "Titulo": "Elimina 10 zombies",
+    "Tooltip": "Encuentra y elimina 10 zombies.",
+    "Semana": 4,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:zombie",
+    "Cantidad": 10,
+    "Recompensa": 20
+  },
+  "Mision29": {
+    "Titulo": "Rompe 30 bloques de carbón",
+    "Tooltip": "Rompe 30 bloques de mineral de carbón.",
+    "Semana": 4,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:coal_ore",
+    "Cantidad": 30,
+    "Recompensa": 20
+  },
+  "Mision30": {
+    "Titulo": "Crea una puerta de hierro",
+    "Tooltip": "Craftea una puerta de hierro para proteger tu base.",
+    "Semana": 4,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:iron_door",
+    "Cantidad": 1,
+    "Recompensa": 20
+  },
+  "Mision31": {
+    "Titulo": "Elimina 5 esqueletos",
+    "Tooltip": "Encuentra y elimina 5 esqueletos.",
+    "Semana": 4,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:skeleton",
+    "Cantidad": 5,
+    "Recompensa": 20
+  },
+  "Mision32": {
+    "Titulo": "Planta 15 árboles",
+    "Tooltip": "Planta 15 retoños de cualquier tipo de árbol.",
+    "Semana": 4,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 15,
+    "Recompensa": 20
+  },
+  "Mision33": {
+    "Titulo": "Atrapa 20 peces",
+    "Tooltip": "Usa una caña de pescar para pescar 20 peces.",
+    "Semana": 5,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 20,
+    "Recompensa": 25
+  },
+  "Mision34": {
+    "Titulo": "Recoge 40 bloques de hierro",
+    "Tooltip": "Encuentra y recoge 40 bloques de mineral de hierro.",
+    "Semana": 5,
+    "TipoAccion": "recoger_item",
+    "Objetivo": "minecraft:iron_ore",
+    "Cantidad": 40,
+    "Recompensa": 25
+  },
+  "Mision35": {
+    "Titulo": "Craftea una espada de diamante",
+    "Tooltip": "Craftea una espada de diamante para aumentar tu poder ofensivo.",
+    "Semana": 5,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:diamond_sword",
+    "Cantidad": 1,
+    "Recompensa": 25
+  },
+  "Mision36": {
+    "Titulo": "Elimina 10 creepers",
+    "Tooltip": "Encuentra y elimina 10 creepers.",
+    "Semana": 5,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:creeper",
+    "Cantidad": 10,
+    "Recompensa": 25
+  },
+  "Mision37": {
+    "Titulo": "Rompe 40 bloques de carbón",
+    "Tooltip": "Rompe 40 bloques de mineral de carbón.",
+    "Semana": 5,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:coal_ore",
+    "Cantidad": 40,
+    "Recompensa": 25
+  },
+  "Mision38": {
+    "Titulo": "Crea un mecanismo de redstone",
+    "Tooltip": "Craftea y coloca un mecanismo usando redstone.",
+    "Semana": 5,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:redstone",
+    "Cantidad": 1,
+    "Recompensa": 25
+  },
+  "Mision39": {
+    "Titulo": "Elimina 5 enderman",
+    "Tooltip": "Encuentra y elimina 5 enderman.",
+    "Semana": 5,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:enderman",
+    "Cantidad": 5,
+    "Recompensa": 25
+  },
+  "Mision40": {
+    "Titulo": "Planta 20 árboles",
+    "Tooltip": "Planta 20 retoños de cualquier tipo de árbol.",
+    "Semana": 5,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 20,
+    "Recompensa": 25
+  },
+  "Mision41": {
+    "Titulo": "Atrapa 25 peces",
+    "Tooltip": "Usa una caña de pescar para pescar 25 peces.",
+    "Semana": 6,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 25,
+    "Recompensa": 30
+  },
+  "Mision42": {
+    "Titulo": "Recoge 50 bloques de hierro",
+    "Tooltip": "Encuentra y recoge 50 bloques de mineral de hierro.",
+    "Semana": 6,
+    "TipoAccion": "recoger_item",
+    "Objetivo": "minecraft:iron_ore",
+    "Cantidad": 50,
+    "Recompensa": 30
+  },
+  "Mision43": {
+    "Titulo": "Craftea un casco de diamante",
+    "Tooltip": "Craftea un casco de diamante para proteger tu cabeza.",
+    "Semana": 6,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:diamond_helmet",
+    "Cantidad": 1,
+    "Recompensa": 30
+  },
+  "Mision44": {
+    "Titulo": "Elimina 10 arañas",
+    "Tooltip": "Encuentra y elimina 10 arañas.",
+    "Semana": 6,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:spider",
+    "Cantidad": 10,
+    "Recompensa": 30
+  },
+  "Mision45": {
+    "Titulo": "Rompe 50 bloques de carbón",
+    "Tooltip": "Rompe 50 bloques de mineral de carbón.",
+    "Semana": 6,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:coal_ore",
+    "Cantidad": 50,
+    "Recompensa": 30
+  },
+  "Mision46": {
+    "Titulo": "Crea un portal al Nether",
+    "Tooltip": "Construye un portal al Nether y actívalo.",
+    "Semana": 6,
+    "TipoAccion": "logro",
+    "Objetivo": "minecraft:nether_portal",
+    "Cantidad": 1,
+    "Recompensa": 30
+  },
+  "Mision47": {
+    "Titulo": "Elimina 10 brujas",
+    "Tooltip": "Encuentra y elimina 10 brujas.",
+    "Semana": 6,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:witch",
+    "Cantidad": 10,
+    "Recompensa": 30
+  },
+  "Mision48": {
+    "Titulo": "Planta 25 árboles",
+    "Tooltip": "Planta 25 retoños de cualquier tipo de árbol.",
+    "Semana": 6,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 25,
+    "Recompensa": 30
+  },
+  "Mision49": {
+    "Titulo": "Atrapa 30 peces",
+    "Tooltip": "Usa una caña de pescar para pescar 30 peces.",
+    "Semana": 7,
+    "TipoAccion": "pescar",
+    "Objetivo": "minecraft:cod",
+    "Cantidad": 30,
+    "Recompensa": 35
+  },
+  "Mision50": {
+    "Titulo": "Recoge 60 bloques de hierro",
+    "Tooltip": "Encuentra y recoge 60 bloques de mineral de hierro.",
+    "Semana": 7,
+    "TipoAccion": "recoger_item",
+    "Objetivo": "minecraft:iron_ore",
+    "Cantidad": 60,
+    "Recompensa": 35
+  },
+  "Mision51": {
+    "Titulo": "Craftea una pechera de diamante",
+    "Tooltip": "Craftea una pechera de diamante para proteger tu torso.",
+    "Semana": 7,
+    "TipoAccion": "craftear",
+    "Objetivo": "minecraft:diamond_chestplate",
+    "Cantidad": 1,
+    "Recompensa": 35
+  },
+  "Mision52": {
+    "Titulo": "Elimina 10 enderman",
+    "Tooltip": "Encuentra y elimina 10 enderman.",
+    "Semana": 7,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:enderman",
+    "Cantidad": 10,
+    "Recompensa": 35
+  },
+  "Mision53": {
+    "Titulo": "Rompe 60 bloques de carbón",
+    "Tooltip": "Rompe 60 bloques de mineral de carbón.",
+    "Semana": 7,
+    "TipoAccion": "romper",
+    "Objetivo": "minecraft:coal_ore",
+    "Cantidad": 60,
+    "Recompensa": 35
+  },
+  "Mision54": {
+    "Titulo": "Crea un sistema de almacenamiento",
+    "Tooltip": "Craftea y coloca 10 cofres para almacenar tus objetos.",
+    "Semana": 7,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:chest",
+    "Cantidad": 10,
+    "Recompensa": 35
+  },
+  "Mision55": {
+    "Titulo": "Elimina 15 zombies",
+    "Tooltip": "Encuentra y elimina 15 zombies.",
+    "Semana": 7,
+    "TipoAccion": "eliminar",
+    "Objetivo": "minecraft:zombie",
+    "Cantidad": 15,
+    "Recompensa": 35
+  },
+  "Mision56": {
+    "Titulo": "Planta 30 árboles",
+    "Tooltip": "Planta 30 retoños de cualquier tipo de árbol.",
+    "Semana": 7,
+    "TipoAccion": "poner_bloque",
+    "Objetivo": "minecraft:oak_sapling",
+    "Cantidad": 30,
+    "Recompensa": 35
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Panitas (Minecraft 1.20.1)",
+    "description": "Panitas ejecutado Minecraft 1.20.1",
+    "address": "na5.holy.gg:26234",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.11"
+  },
+  "untrackedFiles": []
+}

@@ -1,0 +1,338 @@
+{
+  "Nivel1": {
+    "Descripcion": "Obten un pico de piedra",
+    "Recompensa": "minecraft:stone_pickaxe",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 10
+  },
+  "Nivel2": {
+    "Descripcion": "Obten una espada de piedra",
+    "Recompensa": "minecraft:stone_sword",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 15
+  },
+  "Nivel3": {
+    "Descripcion": "Obten un casco de hierro",
+    "Recompensa": "minecraft:iron_helmet",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 20
+  },
+  "Nivel4": {
+    "Descripcion": "Obten una pechera de hierro",
+    "Recompensa": "minecraft:iron_chestplate",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 25
+  },
+  "Nivel5": {
+    "Descripcion": "Obten unas botas de hierro",
+    "Recompensa": "minecraft:iron_boots",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 25
+  },
+  "Nivel6": {
+    "Descripcion": "Obten un pantalón de hierro",
+    "Recompensa": "minecraft:iron_leggings",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 25
+  },
+  "Nivel7": {
+    "Descripcion": "Obten un pico de hierro",
+    "Recompensa": "minecraft:iron_pickaxe",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 30
+  },
+  "Nivel8": {
+    "Descripcion": "Obten una espada de hierro",
+    "Recompensa": "minecraft:iron_sword",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 30
+  },
+  "Nivel9": {
+    "Descripcion": "Obten un casco de diamante",
+    "Recompensa": "minecraft:diamond_helmet",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 35
+  },
+  "Nivel10": {
+    "Descripcion": "Obten una pechera de diamante",
+    "Recompensa": "minecraft:diamond_chestplate",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 40
+  },
+  "Nivel11": {
+    "Descripcion": "Obten unas botas de diamante",
+    "Recompensa": "minecraft:diamond_boots",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 40
+  },
+  "Nivel12": {
+    "Descripcion": "Obten un pantalón de diamante",
+    "Recompensa": "minecraft:diamond_leggings",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 40
+  },
+  "Nivel13": {
+    "Descripcion": "Obten un pico de diamante",
+    "Recompensa": "minecraft:diamond_pickaxe",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 45
+  },
+  "Nivel14": {
+    "Descripcion": "Obten una espada de diamante",
+    "Recompensa": "minecraft:diamond_sword",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 45
+  },
+  "Nivel15": {
+    "Descripcion": "Obten una pala de diamante",
+    "Recompensa": "minecraft:diamond_shovel",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 45
+  },
+  "Nivel16": {
+    "Descripcion": "Obten un hacha de diamante",
+    "Recompensa": "minecraft:diamond_axe",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 50
+  },
+  "Nivel17": {
+    "Descripcion": "Obten un arco",
+    "Recompensa": "minecraft:bow",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 50
+  },
+  "Nivel18": {
+    "Descripcion": "Obten 16 flechas",
+    "Recompensa": "minecraft:arrow",
+    "Cantidad_de_recompensa": 16,
+    "Precio_del_Nivel": 55
+  },
+  "Nivel19": {
+    "Descripcion": "Obten una caña de pescar",
+    "Recompensa": "minecraft:fishing_rod",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 55
+  },
+  "Nivel20": {
+    "Descripcion": "Obten una manzana dorada",
+    "Recompensa": "minecraft:golden_apple",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 60
+  },
+  "Nivel21": {
+    "Descripcion": "Obten 16 obsidianas",
+    "Recompensa": "minecraft:obsidian",
+    "Cantidad_de_recompensa": 16,
+    "Precio_del_Nivel": 65
+  },
+  "Nivel22": {
+    "Descripcion": "Obten una mesa de encantamientos",
+    "Recompensa": "minecraft:enchanting_table",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 70
+  },
+  "Nivel23": {
+    "Descripcion": "Obten un libro encantado",
+    "Recompensa": "minecraft:enchanted_book",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 75
+  },
+  "Nivel24": {
+    "Descripcion": "Obten una brújula",
+    "Recompensa": "minecraft:compass",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 80
+  },
+  "Nivel25": {
+    "Descripcion": "Obten una baliza",
+    "Recompensa": "minecraft:beacon",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 85
+  },
+  "Nivel26": {
+    "Descripcion": "Obten un tridente",
+    "Recompensa": "minecraft:trident",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 90
+  },
+  "Nivel27": {
+    "Descripcion": "Obten una elytra",
+    "Recompensa": "minecraft:elytra",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 95
+  },
+  "Nivel28": {
+    "Descripcion": "Obten una botella de experiencia",
+    "Recompensa": "minecraft:experience_bottle",
+    "Cantidad_de_recompensa": 16,
+    "Precio_del_Nivel": 100
+  },
+  "Nivel29": {
+    "Descripcion": "Obten una poción de fuerza",
+    "Recompensa": "minecraft:potion{Potion:\"minecraft:strength\"}",
+    "Cantidad_de_recompensa": 3,
+    "Precio_del_Nivel": 105
+  },
+  "Nivel30": {
+    "Descripcion": "Obten una poción de velocidad",
+    "Recompensa": "minecraft:potion{Potion:\"minecraft:speed\"}",
+    "Cantidad_de_recompensa": 3,
+    "Precio_del_Nivel": 110
+  },
+  "Nivel31": {
+    "Descripcion": "Obten un yunque",
+    "Recompensa": "minecraft:anvil",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 115
+  },
+  "Nivel32": {
+    "Descripcion": "Obten una mesa de herrería",
+    "Recompensa": "minecraft:smithing_table",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 120
+  },
+  "Nivel33": {
+    "Descripcion": "Obten 10 lingotes de netherita",
+    "Recompensa": "minecraft:netherite_ingot",
+    "Cantidad_de_recompensa": 10,
+    "Precio_del_Nivel": 125
+  },
+  "Nivel34": {
+    "Descripcion": "Obten un pico de netherita",
+    "Recompensa": "minecraft:netherite_pickaxe",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 130
+  },
+  "Nivel35": {
+    "Descripcion": "Obten una espada de netherita",
+    "Recompensa": "minecraft:netherite_sword",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 135
+  },
+  "Nivel36": {
+    "Descripcion": "Obten un casco de netherita",
+    "Recompensa": "minecraft:netherite_helmet",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 140
+  },
+  "Nivel37": {
+    "Descripcion": "Obten una pechera de netherita",
+    "Recompensa": "minecraft:netherite_chestplate",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 145
+  },
+  "Nivel38": {
+    "Descripcion": "Obten unas botas de netherita",
+    "Recompensa": "minecraft:netherite_boots",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 150
+  },
+  "Nivel39": {
+    "Descripcion": "Obten un pantalón de netherita",
+    "Recompensa": "minecraft:netherite_leggings",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 155
+  },
+  "Nivel40": {
+    "Descripcion": "Obten una manzana dorada encantada",
+    "Recompensa": "minecraft:enchanted_golden_apple",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 160
+  },
+  "Nivel41": {
+    "Descripcion": "Obten 64 lingotes de oro",
+    "Recompensa": "minecraft:gold_ingot",
+    "Cantidad_de_recompensa": 64,
+    "Precio_del_Nivel": 165
+  },
+  "Nivel42": {
+    "Descripcion": "Obten 64 lingotes de hierro",
+    "Recompensa": "minecraft:iron_ingot",
+    "Cantidad_de_recompensa": 64,
+    "Precio_del_Nivel": 170
+  },
+  "Nivel43": {
+    "Descripcion": "Obten 64 lingotes de diamante",
+    "Recompensa": "minecraft:diamond",
+    "Cantidad_de_recompensa": 64,
+    "Precio_del_Nivel": 175
+  },
+  "Nivel44": {
+    "Descripcion": "Obten 32 bloques de hierro",
+    "Recompensa": "minecraft:iron_block",
+    "Cantidad_de_recompensa": 32,
+    "Precio_del_Nivel": 180
+  },
+  "Nivel45": {
+    "Descripcion": "Obten 32 bloques de oro",
+    "Recompensa": "minecraft:gold_block",
+    "Cantidad_de_recompensa": 32,
+    "Precio_del_Nivel": 185
+  },
+  "Nivel46": {
+    "Descripcion": "Obten 16 bloques de diamante",
+    "Recompensa": "minecraft:diamond_block",
+    "Cantidad_de_recompensa": 16,
+    "Precio_del_Nivel": 190
+  },
+  "Nivel47": {
+    "Descripcion": "Obten 64 bloques de obsidiana",
+    "Recompensa": "minecraft:obsidian",
+    "Cantidad_de_recompensa": 64,
+    "Precio_del_Nivel": 195
+  },
+  "Nivel48": {
+    "Descripcion": "Obten una mesa de encantamientos avanzada",
+    "Recompensa": "minecraft:enchanting_table",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 200
+  },
+  "Nivel49": {
+    "Descripcion": "Obten una pechera de netherita encantada",
+    "Recompensa": "minecraft:netherite_chestplate{Enchantments:[{id:\"minecraft:protection\",lvl:4}]}",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 205
+  },
+  "Nivel50": {
+    "Descripcion": "Obten una espada de netherita encantada",
+    "Recompensa": "minecraft:netherite_sword{Enchantments:[{id:\"minecraft:sharpness\",lvl:5}]}",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 210
+  },
+  "Nivel51": {
+    "Descripcion": "Obten un arco encantado",
+    "Recompensa": "minecraft:bow{Enchantments:[{id:\"minecraft:power\",lvl:5}]}",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 215
+  },
+  "Nivel52": {
+    "Descripcion": "Obten una elytra encantada",
+    "Recompensa": "minecraft:elytra{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3}]}",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 220
+  },
+  "Nivel53": {
+    "Descripcion": "Obten 3 cabezas de Wither",
+    "Recompensa": "minecraft:wither_skeleton_skull",
+    "Cantidad_de_recompensa": 3,
+    "Precio_del_Nivel": 225
+  },
+  "Nivel54": {
+    "Descripcion": "Obten una estrella del Nether",
+    "Recompensa": "minecraft:nether_star",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 230
+  },
+  "Nivel55": {
+    "Descripcion": "Obten un huevo de dragón",
+    "Recompensa": "minecraft:dragon_egg",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 235
+  },
+  "Nivel56": {
+    "Descripcion": "Obten un tótem de inmortalidad",
+    "Recompensa": "minecraft:totem_of_undying",
+    "Cantidad_de_recompensa": 1,
+    "Precio_del_Nivel": 240
+  }
+}
